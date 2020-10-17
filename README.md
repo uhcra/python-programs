@@ -1,6 +1,6 @@
 # Python Programs
 
-This Repository is purely meant for uploading cool python programs. No program should be uploaded that is not open source.
+Repo is only meant for uploading meaningful and helpful python programs. No program that happens not to benefit open source shall be uploaded.
 
 - Only Python programs are to be added.
 - Separate folders or each Python Programs.
